@@ -1,7 +1,7 @@
 # Global_Countries_2023_EDA
 
 Overview:
-This notebook titled Global_Fertility_Insights_2023.ipynb presents an exploratory data analysis (EDA) on various metrics of countries in 2023. The main focus of this analysis is to understand relationships and patterns, particularly concerning the Fertility Rate.
+This notebook titled global-fertility-insights-2023.ipynb presents an exploratory data analysis (EDA) on various metrics of countries in 2023. The main focus of this analysis is to understand relationships and patterns, particularly concerning the Fertility Rate.
 
 Data:
 The dataset contains various metrics such as Birth Rate, CPI, Fertility Rate, GDP, Minimum Wage, Life Expectancy, and several others for countries worldwide.
