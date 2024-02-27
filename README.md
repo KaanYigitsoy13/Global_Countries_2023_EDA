@@ -1,4 +1,4 @@
-# Global_Fertility_Rates_2023_EDA
+# Global_Fertility_Insights_2023_EDA
 
 **Overview:**
 This notebook titled global-fertility-insights-2023.ipynb presents an exploratory data analysis (EDA) on various metrics of countries in 2023. The main focus of this analysis is to understand relationships and patterns, particularly concerning the Fertility Rate.
